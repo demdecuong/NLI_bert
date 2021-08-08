@@ -1,0 +1,4 @@
+UNK
+positive
+negative
+neutral
